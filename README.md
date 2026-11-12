@@ -1,4 +1,4 @@
-# kv-store-cpp 💾
+# TITANVAL💾
 
 So i built a multi-threaded key-value store from scratch in c++17 because i wanted to see how databases actually work under the hood instead of just watching tutorials lol. 
 
